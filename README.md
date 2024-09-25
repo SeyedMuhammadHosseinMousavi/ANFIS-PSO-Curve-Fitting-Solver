@@ -1,9 +1,10 @@
-# ANFIS-PSO-Curve-Fitting-Solver
+# Adaptive Neuro-Fuzzy Inference System (ANFIS)-PSO-Curve-Fitting-Solver
 # Real-Time Algorithm Performance and Cost Function Visualization
 
-This project demonstrates a **real-time visualization** of three algorithms—**Hill Climbing**, **Fuzzy Logic**, and **ANFIS PSO**—as they attempt to fit a predefined curve (based on a sine function) and minimize the difference between their predictions and the exact solution.
+This project demonstrates a **real-time visualization** of three algorithms—**Hill Climbing**, **Fuzzy Logic**, and **Adaptive Neuro-Fuzzy Inference System (ANFIS) PSO**—as they attempt to fit a predefined curve (based on a sine function) and minimize the difference between their predictions and the exact solution.
 
 The project includes dynamic updates to the cost function for each algorithm, as well as a control panel to adjust the number of data points and the complexity of the sine curve. All updates happen in real time, providing both a visual and statistical representation of the algorithms' progress.
+![ANFIS PSO Curve Fitting  Solver 2](https://github.com/user-attachments/assets/0ab7bca2-aae4-4e2b-9a25-1e61c0708bbc)
 
 ## Key Features
 
